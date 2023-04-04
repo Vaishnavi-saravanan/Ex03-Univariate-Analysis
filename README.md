@@ -83,7 +83,19 @@ Valuecount:
 
 Boxplot:
 
+![v8](https://user-images.githubusercontent.com/118541897/229687932-b95989bf-7fc8-4af8-a551-9ac299c1be92.png)
 
+Postal code :
+
+![v9](https://user-images.githubusercontent.com/118541897/229688019-3a4080d9-002d-46f1-8a8e-a3ddadc44543.png)
+
+Plot:
+
+![v10](https://user-images.githubusercontent.com/118541897/229688045-8da0a8ca-bc85-41a8-b4b2-4299bc1f7ecb.png)
+
+Count:
+
+![v11](https://user-images.githubusercontent.com/118541897/229688054-85b1f271-bbc5-448d-b63e-ec3b2e1611b9.png)
 
 
 
