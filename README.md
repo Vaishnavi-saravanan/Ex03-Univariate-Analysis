@@ -30,7 +30,7 @@ DEVELOPED BY : VAISHNAVI.S
 
 REGISTER NO :212222230165
 
-~~~py
+```py
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -51,7 +51,7 @@ sns.boxplot(x='Postal Code', data=df)
 sns.countplot(x='Postal Code',data=df)
 sns.distplot(df["Postal Code"])
 sns.histplot(x='Postal Code',data=df)
-~~~
+```
 Output:
 Dataset:
 
@@ -85,17 +85,46 @@ Boxplot:
 
 ![v8](https://user-images.githubusercontent.com/118541897/229687932-b95989bf-7fc8-4af8-a551-9ac299c1be92.png)
 
-Postal code :
+countplot:
 
 ![v9](https://user-images.githubusercontent.com/118541897/229688019-3a4080d9-002d-46f1-8a8e-a3ddadc44543.png)
 
-Plot:
+Discription Plot:
 
 ![v10](https://user-images.githubusercontent.com/118541897/229688045-8da0a8ca-bc85-41a8-b4b2-4299bc1f7ecb.png)
 
-Count:
+Histogram plot:
 
 ![v11](https://user-images.githubusercontent.com/118541897/229688054-85b1f271-bbc5-448d-b63e-ec3b2e1611b9.png)
+
+DIABETES.CSV:
+Data set:
+![v12](https://user-images.githubusercontent.com/118541897/229688981-5a44422d-298a-441b-8f53-d6e5bf439a34.png)
+Head:
+![v13](https://user-images.githubusercontent.com/118541897/229688997-f10ae4c2-5097-4211-bd44-a61af262206c.jpg)
+
+![v14](https://user-images.githubusercontent.com/118541897/229689011-5aa268a1-b496-4278-9775-4e0e2a6ddcff.jpg)
+
+![v15](https://user-images.githubusercontent.com/118541897/229689027-c59699d2-3e18-4d2b-aebf-4c76e07dff97.jpg)
+
+![v16](https://user-images.githubusercontent.com/118541897/229689039-5a167574-bbc8-4823-81a3-d2b56684b241.jpg)
+
+![v17](https://user-images.githubusercontent.com/118541897/229689047-6d68e1af-6028-43a5-add2-26b0cae861e6.jpg)
+
+![v19](https://user-images.githubusercontent.com/118541897/229689066-93194838-8f76-44a9-87ef-ac16599a6b67.jpg)
+
+![v20](https://user-images.githubusercontent.com/118541897/229689083-9635aab2-8d8e-4b89-9160-570ca0c3d87b.jpg)
+
+![v21](https://user-images.githubusercontent.com/118541897/229689101-d99da6da-c78d-422c-81c8-af5bb14ab2db.jpg)
+
+![v22](https://user-images.githubusercontent.com/118541897/229689245-4dfa7e87-ee6d-41b1-a3eb-4cdf8c0c7a2d.jpg)
+
+![v23](https://user-images.githubusercontent.com/118541897/229689164-2dc2f3f9-7b1c-4eb4-9fad-caea43427939.jpg)
+
+
+
+
+
 
 
 
