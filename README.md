@@ -1,31 +1,31 @@
 # Ex03-Univariate-Analysis
 
-Aim:
+# Aim:
 To read the given data and perform the univariate analysis with different types of plots.
 
-Explanation:
+# Explanation:
 Univariate analysis is basically the simplest form to analyze data. Uni means one and this means that the data has only one kind of variable. The major reason for univariate analysis is to use the data to describe. The analysis will take data, summarise it, and then find some pattern in the data.
 
-Algorithm:
-Step1:
+# Algorithm:
+# Step1:
 Read the given data.
 
-Step2:
+# Step2:
 Get the information about the data.
 
-Step3:
+# Step3:
 Remove the null values from the data.
 
-Step4:
+# Step4:
 Mention the datatypes from the data.
 
-Step5:
+# Step5:
 Count the values from the data.
 
-.Step6:
+# Step6:
 Do plots like boxplots,countplot,distribution plot,histogram plot.
 
-Program:
+# Program:
 DEVELOPED BY : VAISHNAVI.S
 
 REGISTER NO :212222230165
@@ -52,75 +52,100 @@ sns.countplot(x='Postal Code',data=df)
 sns.distplot(df["Postal Code"])
 sns.histplot(x='Postal Code',data=df)
 ```
-Output:
+# Output:
+
 Dataset:
 
 ![v1](https://user-images.githubusercontent.com/118541897/228145053-709f1b77-e706-446a-86ed-56348210d924.png)
 
-Head:
+# Head:
 
 ![v2](https://user-images.githubusercontent.com/118541897/228145209-d44d551f-4c80-4e40-ba5e-c705ebb65995.png)
 
-Info:
+# Info:
 
 ![v3](https://user-images.githubusercontent.com/118541897/228145282-68e67bea-02da-4b3b-80dd-fd9a02179d72.png)
 
-Describe:
+# Describe:
 
 ![v4](https://user-images.githubusercontent.com/118541897/228145515-c8b6557f-b370-4b56-9ffb-5315208309f6.png)
 
-Isnull:
+# Isnull:
 
 ![v5](https://user-images.githubusercontent.com/118541897/228145591-4f0449d3-320e-41fd-bc08-0d843ea32d67.png)
 
-dtypes:
+# dtypes:
 
 ![v6](https://user-images.githubusercontent.com/118541897/228145657-394f5e73-9248-4650-ab99-708d59957c43.png)
 
-Valuecount:
+# Valuecount:
 
 ![v7](https://user-images.githubusercontent.com/118541897/228145795-1d627a21-1b92-4713-abd1-f2476b40bbec.png)
 
-Boxplot:
+# Boxplot:
 
 ![v8](https://user-images.githubusercontent.com/118541897/229687932-b95989bf-7fc8-4af8-a551-9ac299c1be92.png)
 
-countplot:
+# countplot:
 
 ![v9](https://user-images.githubusercontent.com/118541897/229688019-3a4080d9-002d-46f1-8a8e-a3ddadc44543.png)
 
-Discription Plot:
+# Distribution Plot:
 
 ![v10](https://user-images.githubusercontent.com/118541897/229688045-8da0a8ca-bc85-41a8-b4b2-4299bc1f7ecb.png)
 
-Histogram plot:
+# Histogram plot:
 
 ![v11](https://user-images.githubusercontent.com/118541897/229688054-85b1f271-bbc5-448d-b63e-ec3b2e1611b9.png)
 
-DIABETES.CSV:
-Data set:
+# DIABETES.CSV:
+
+# Data set:
+
 ![v12](https://user-images.githubusercontent.com/118541897/229688981-5a44422d-298a-441b-8f53-d6e5bf439a34.png)
-Head:
+
+# Head:
+
 ![v13](https://user-images.githubusercontent.com/118541897/229688997-f10ae4c2-5097-4211-bd44-a61af262206c.jpg)
+
+# Info:
 
 ![v14](https://user-images.githubusercontent.com/118541897/229689011-5aa268a1-b496-4278-9775-4e0e2a6ddcff.jpg)
 
+# Describe:
+
 ![v15](https://user-images.githubusercontent.com/118541897/229689027-c59699d2-3e18-4d2b-aebf-4c76e07dff97.jpg)
+
+# Isnull:
 
 ![v16](https://user-images.githubusercontent.com/118541897/229689039-5a167574-bbc8-4823-81a3-d2b56684b241.jpg)
 
+# Dtypes:
+
 ![v17](https://user-images.githubusercontent.com/118541897/229689047-6d68e1af-6028-43a5-add2-26b0cae861e6.jpg)
+
+# Valuecount:
 
 ![v19](https://user-images.githubusercontent.com/118541897/229689066-93194838-8f76-44a9-87ef-ac16599a6b67.jpg)
 
+# Boxplot:
+
 ![v20](https://user-images.githubusercontent.com/118541897/229689083-9635aab2-8d8e-4b89-9160-570ca0c3d87b.jpg)
+
+# Countplot:
 
 ![v21](https://user-images.githubusercontent.com/118541897/229689101-d99da6da-c78d-422c-81c8-af5bb14ab2db.jpg)
 
+# Distrubution plot:
+
 ![v22](https://user-images.githubusercontent.com/118541897/229689245-4dfa7e87-ee6d-41b1-a3eb-4cdf8c0c7a2d.jpg)
+
+# Histogram plot:
 
 ![v23](https://user-images.githubusercontent.com/118541897/229689164-2dc2f3f9-7b1c-4eb4-9fad-caea43427939.jpg)
 
+# RESULT:
+ Thus we have read the given data and performed the univariate analysis with different types of plots
 
 
 
